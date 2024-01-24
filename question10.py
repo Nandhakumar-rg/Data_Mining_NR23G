@@ -1,8 +1,8 @@
 def question10_1():
-    """
+    
     answer: False
-    """
-    return False
+    
+    return answer
 
 def question10_2():
     """

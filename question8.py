@@ -1,7 +1,6 @@
 def question8_1():
     
     answer = ['x1', 'x2']
-    # answer = ['equally similar']
     
     return answer
 

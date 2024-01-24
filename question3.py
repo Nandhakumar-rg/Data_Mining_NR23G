@@ -17,7 +17,7 @@ def question3_4():
 def question3_5():
     answer = ['Nominal', 'Nominal']
     return answer
-#6,7,8
+
 def question3_6():
     answer = ['Continuous', 'Ratio']
     return answer

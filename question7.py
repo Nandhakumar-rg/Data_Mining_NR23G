@@ -9,7 +9,7 @@ def question7_2():
     answer = 'non-decreasing'
     
     return answer
-#3
+
 def question7_3():
     
     answer = [(0.0, 1.0), (2.0, 3.0), (4.0, 5.0), (6.0, 'infinity')]

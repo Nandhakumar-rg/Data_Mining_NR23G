@@ -15,7 +15,7 @@ def question5_2():
     } 
     return answer
 
-#5.3 Doubt
+
 def question5_3():
     answer = {
              'bin1': [1, 2, 5],
