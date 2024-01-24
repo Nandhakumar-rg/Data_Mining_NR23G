@@ -3,7 +3,7 @@ def question3_1():
     return answer
 
 def question3_2():
-    answer = ['Discrete', ' Ordinal']
+    answer = ['Discrete', 'Ordinal']
     return answer
 
 def question3_3():
