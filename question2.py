@@ -3,17 +3,16 @@ def question2_1():
     return answer
 
 def question2_2():
-    answer=['continuous','quantitative','ratio']
+    answer = ['Continuous', 'Quantitative', 'Ratio']
     return answer
 
 def question2_3():
-    answer=['continuous','quantitative','ratio']
+    answer = ['Continuous', 'Quantitative', 'Interval']
     return answer 
 
 def question2_4():
-    answer=['discrete','qualitative','ordinal']
+    answer = ['Discrete', 'Qualitative', 'Ordinal']
     return answer
 
 def question2_5():
-    answer=['discrete','qualitative','nominal']
-    return answer
+    answer = ['Binary', 'Qualitative', 'Nominal']
