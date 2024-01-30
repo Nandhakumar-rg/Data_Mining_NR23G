@@ -15,5 +15,5 @@ def question2_4():
     return answer
 
 def question2_5():
-    answer=['Binary','Qualitative','Nominal']
+    answer=['Discrete','Qualitative','Nominal']
     return answer
