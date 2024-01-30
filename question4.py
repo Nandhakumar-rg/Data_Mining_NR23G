@@ -1,31 +1,31 @@
 def question4_1():
-    answer = ['Nominal', 'Nominal']
+    answer = ['nominal', 'ordinal']  
     return answer
 
 def question4_2():
-    answer = ['Ratio', 'Ratio']
+    answer = ['ordinal', 'ratio']
     return answer
 
 def question4_3():
-    answer = ['Ratio', 'Ordinal']
+    answer = ['ratio', 'interval']
     return answer 
 
 def question4_4():
-    answer = ['Ratio', 'Ordinal']
+    answer = ['ratio', 'interval']
     return answer
 
 def question4_5():
-    answer = ['Ratio', 'Ratio']
+    answer = ['ratio', 'ratio']
     return answer
 
 def question4_6():
-    answer = ['Ratio', 'Nominal']
+    answer = ['ratio', 'ordinal']
     return answer
 
 def question4_7():
-    answer = ['Ratio', 'Ratio']
+    answer = ['ratio', 'interval']
     return answer
 
 def question4_8():
-    answer = ['Ratio', 'Ratio']
+    answer = ['ratio', 'ratio'] 
     return answer

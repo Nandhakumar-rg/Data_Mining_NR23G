@@ -1,61 +1,39 @@
 def question10_1():
-    """
-    answer: False
-    """
-    return False
+    answer=True 
+    return answer
 
 def question10_2():
-    """
-    answer: True
-    """
-    return True
+    answer=True 
+    return answer
 
 def question10_3():
-    """
-    answer: False
-    """
-    return False
+    answer=True 
+    return answer
 
 def question10_4():
-    """
-    answer: False
-    """
-    return False
+    answer=False 
+    return answer
 
 def question10_5():
-    """
-    answer: False
-    """
-    return False
+    answer=True 
+    return answer
 
 def question10_6():
-    """
-    answer: True
-    """
-    return True
+    answer=False  
+    return answer 
 
 def question10_7():
-    """
-    answer: False
-    """
-    return False
+    answer=True
+    return answer 
 
 def question10_8():
-    """
-    answer: True
-    """
-    return True
+    answer=True
+    return answer   
 
 def question10_9():
-    """
-    answer: False
-    """
-    return False
+    answer=False  
+    return answer   
 
 def question10_10():
-    """
-    answer: False
-    """
-    return False
-
-#Test case failed when I submitted the variable answer in return.
+    answer=False
+    return answer  
