@@ -1,5 +1,5 @@
 def question2_1():
-    answer = [ 'Discrete','Qunatitative', 'Ratio']
+    answer = [ 'Discrete','Qunatitative','Ratio']
     return answer
 
 def question2_2():
